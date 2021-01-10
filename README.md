@@ -1,3 +1,5 @@
+![Node CI](https://github.com/odiaz94/node-project/workflows/Node%20CI/badge.svg?branch=patch-v0.1)
+
 # Node Project Template
 > Starter template for creating a Node.js project including docs and a deploy pipeline
 
