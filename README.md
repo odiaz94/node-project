@@ -1,4 +1,4 @@
-[![Node CI](https://github.com/odiaz94/node-project/workflows/Node%20CI/badge.svg?branch=patch-v0.1)](https://github.com/odiaz94/node-project/actions/runs/475684439)
+[![Node CI](https://github.com/odiaz94/node-project/workflows/Node%20CI/badge.svg?branch=patch-v0.1)](https://github.com/odiaz94/node-project/actions)
 
 # Node Project Template
 > Starter template for creating a Node.js project including docs and a deploy pipeline
